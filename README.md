@@ -10,7 +10,7 @@ Real example:
 -----
 ![ScreenShot](http://www.probtn.com/wp-content/uploads/2013/09/pizzagif2.gif)
 
-How to use PizzaBtn SDK
+How to use Profit Button SDK
 -----
 
 1. First you have to register on [http://admin.probtn.com](http://admin.probtn.com)
@@ -18,7 +18,7 @@ How to use PizzaBtn SDK
 3. Choose the site to promote in your application.
 4. Finally you have to embed PizzaBtn into your app.
 
-Integrating PizzaBtn SDK into your ObjC iOs App
+Integrating Profit Button SDK into your Titanium iOs App
 -----
 
 1. First you are to clone repository or just download the archive to you computer.
@@ -52,7 +52,7 @@ All the settings are taken from the server so you can customize the appiarence o
 The server adress is [admin.pizzabtn.com](http://admin.pizzabtn.com). After all the data loaded from the server the button would appear automatically.
 
 
-Parameters description for PizzaBtn
+Parameters description for Profit Button
 -------------------------------
 	BundleID = BundleId of your application
 	Settings = {
