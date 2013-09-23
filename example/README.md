@@ -1,2 +1,0 @@
-pizzabtn-appcelerator-ios
-=========================
