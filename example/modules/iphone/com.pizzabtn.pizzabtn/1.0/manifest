@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: Titanium module for using PizzaBtn library.
+author: PizzaBtn
+license: Specify your license
+copyright: PizzaBtn
+
+
+# these should not be edited
+name: Titanium
+moduleid: com.pizzabtn.pizzabtn
+guid: 9ceab142-decd-446c-af0c-3409d94a3bb3
+platform: iphone
+minsdk: 3.1.0.GA
